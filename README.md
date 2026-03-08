@@ -1,6 +1,7 @@
 # TwitchRaidRedirect
 
 A tool to automatically move you back from a raided Twitch channel to the channel that started the raid.
+Might make it into a full-on extension if I feel like it.
 
 # Requirements
 

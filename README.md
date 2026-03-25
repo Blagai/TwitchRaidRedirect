@@ -1,13 +1,4 @@
 # TwitchRaidRedirect
 
-A tool to automatically move you back from a raided Twitch channel to the channel that started the raid.
-Might make it into a full-on extension if I feel like it.
-
-# Requirements
-
-Script should be used inside Violentmonkey https://violentmonkey.github.io/
-
-# How to use
-
-To start the tool write startTwitchRaidRedirect() in the browser console and to stop stopTwitchRaidRedirect(). 
-Resets every time you refresh or reopen the browser tab. Might be a way to fix that but I don't care enough to program it.
+An extension to automatically redirect from a raid to a certain channel or back to raider.
+Can be set to wait a few seconds if you want the raid points reward.
